@@ -45,4 +45,4 @@ http://localhost:5000
 
 - `app.py` - Arquivo principal da aplicação
 - `templates/index.html` - Template HTML do chat
-- `requirements.txt` - Dependências do projeto 
+- `requirements.txt` - Dependências do projeto
